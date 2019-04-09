@@ -1,4 +1,4 @@
-CompSci 308: Parser Project Analysis
+CompSci 308: Parser Project Analysis, by Irene Qiao
 ===================
 
 > This is the link to the [assignment](http://www.cs.duke.edu/courses/compsci308/current/assign/03_parser/):
