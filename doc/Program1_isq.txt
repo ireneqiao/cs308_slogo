@@ -1,0 +1,8 @@
+fd bk sum rt 50
+towards lt 40 goto pendown penup
+setxy showturtle hideturtle
+fd home
+
+set :a xcor
+set :b ycor
+set :c sum :a :b
